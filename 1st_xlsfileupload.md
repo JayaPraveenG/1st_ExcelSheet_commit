@@ -1,4 +1,6 @@
 #chocolate ratings data
+#head and tail 
+head(chocolate)
 # A tibble: 6 × 10
     ref company_manufacturer company_location review_date country_of_bean_origin
   <dbl> <chr>                <chr>                  <dbl> <chr>                 
